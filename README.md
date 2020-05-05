@@ -13,7 +13,7 @@ This study is about different type of tumor with different informations. We'll u
 Those are most famous and popular algorithms in machine learning.Also **K-Fold Cross validation and normalization** are covered.
 
 
-> 2. Movie Recommandation 
+> 2. Movie Recommandation (https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
 This project is one of the most popular machine learning project for beginner. We'll handle dataset called `Movie dataset`. This table contains `title`,`fil distributor`,`Genres` etc. And we have `ratings` which contains ratings information about each user with different moives. We'll use 3 different kind of algorithm to guess which movie recommandation would be proper for individual customers.
 
