@@ -11,6 +11,7 @@ This study is about different type of tumor with different informations. We'll u
 - Logistic Regression
 
 Those are most famous and popular algorithms in machine learning.Also **K-Fold Cross validation and normalization** are covered.
+Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/breast-cancer-study)
 
 
 > 2. Movie Recommandation (https://www.kaggle.com/rounakbanik/the-movies-dataset)
@@ -20,3 +21,5 @@ This project is one of the most popular machine learning project for beginner. W
 - Pearson correlation 
 - Collaborative filtering
 - Content based filtering 
+Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/movie-recommendation/)
+
