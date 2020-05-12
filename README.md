@@ -14,7 +14,7 @@ Those are most famous and popular algorithms in machine learning.Also **K-Fold C
 Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/breast-cancer-study)
 
 
-> 2. Movie Recommandation (https://www.kaggle.com/rounakbanik/the-movies-dataset)
+> 2. Movie Recommandation (https://www.kaggle.com/rounakbanik/the-movies-dataset) (updating)
 
 This project is one of the most popular machine learning project for beginner. We'll handle dataset called `Movie dataset`. This table contains `title`,`fil distributor`,`Genres` etc. And we have `ratings` which contains ratings information about each user with different moives. We'll use 3 different kind of algorithm to guess which movie recommandation would be proper for individual customers.
 
@@ -23,3 +23,5 @@ This project is one of the most popular machine learning project for beginner. W
 - Content based filtering 
 Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/movie-recommendation/)
 
+> 3. Biomechanical features of orthopedic patients
+https://www.kaggle.com/kihunkim/machine-learning-tutorial-for-beginner/edit
