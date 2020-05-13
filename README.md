@@ -16,6 +16,8 @@ AI is spreaded on most of industry field. Especially for **Healtcare** is the ho
 Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/machine-learning-tutorial-for-beginner/edit)
 
 
+
+
 2. Breast Cancer Study (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) 
 
 This study is about different type of tumor with different informations. We'll use different informations as a sub_features or factors to predict if this patient would have a breast canacer. For prediction we'll use **sklearn**. There are algorithms in sklearn but we're going to apply following algorithms 
