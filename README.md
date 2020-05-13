@@ -13,7 +13,7 @@ Sometime there are too many features that people are hestiating which feature ar
 > 2. Real world proejct : AI for Healtcare
 AI is spreaded on most of industry field. Especially for **Healtcare** is the hottest topic currrently.This project is a introduction for them to understand about AI for Healtcare and from there beginner can dive deeper into the Machine learning and deep learning
 
-Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/machine-learning-tutorial-for-beginner/edit)
+Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
 
 
 
