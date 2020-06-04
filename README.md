@@ -7,9 +7,7 @@
 This is project is aimded to person who want to start machine learning with Kaggle competition. Acutally **Titatic Competition** is the
 most popular kernal for beginner.But I think this dataset would be easiler to understand and handle machine learnining and data analysis.
 
-Here is a link for my kernel from Kaggle
-
-[Machine learning for beginner](https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
+Here is a link for my kernel from Kaggle: [Machine learning for beginner](https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
 
 2.Breast Cancer Study 
 
