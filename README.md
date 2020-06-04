@@ -21,8 +21,7 @@ This study is about different type of tumor with different informations. We'll u
 - KNN(K nearest neighbors) 
 - Logistic Regression
 
-Those are most famous and popular algorithms in machine learning.Also **K-Fold Cross validation and normalization** are covered.
-Here is a link for my kernel from Kaggle (https://www.kaggle.com/kihunkim/breast-cancer-study)
+Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
 
 3.Tweet Sentiment Extraction : Tutorial for natural language processing
 
