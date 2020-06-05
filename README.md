@@ -33,5 +33,5 @@ Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kagg
 
 This project is answering about why so many people didn't show up their Mediacal Appointment. We'll find out what is a fundamental factor of No-show cases and the correlation between different type of factors 
 
-Here is a link for my kernel from Kaggle: [No show EDA]()
+Here is a link for my kernel from Kaggle: [No show EDA](https://www.kaggle.com/kihunkim/no-show-eda)
 
