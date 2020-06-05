@@ -28,3 +28,10 @@ Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kagg
 [Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
 
 
+4. Medical Appointment No show
+[Original dataset](https://www.kaggle.com/joniarroba/noshowappointments)
+
+This project is answering about why so many people didn't show up their Mediacal Appointment. We'll find out what is a fundamental factor of No-show cases and the correlation between different type of factors 
+
+Here is a link for my kernel from Kaggle: [No show EDA]()
+
