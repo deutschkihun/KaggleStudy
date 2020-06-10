@@ -29,9 +29,9 @@ Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kagg
 <hr>
 
 [Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
+This kernel is about the tutorial how you can start NLP 
 
-
-
+Here is a link for my kerel : [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
 
 
 ### 4. Medical Appointment No show
