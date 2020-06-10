@@ -25,7 +25,7 @@ This study is about different type of tumor with different informations. We'll u
 
 Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
 
-### 3.Tweet Sentiment Extraction : Tutorial for Natural Language Processing(NLP)
+### 3.Tweet Sentiment Extraction : First NLP Analysis
 <hr>
 
 [Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
