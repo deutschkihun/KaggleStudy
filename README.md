@@ -18,7 +18,7 @@ This kernel is about the tutorial how you can start NLP with real world dataset
 This is project is aimded to person who want to start machine learning with Kaggle competition. Acutally **Titatic Competition** is the
 most popular kernal for beginner.But I think this dataset would be easiler to understand and handle machine learnining and data analysis.
 
-- Here is my kernel link: [Machine learning for beginner](https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
+- Here is my kernel link: [Prediction: orthopedic patients](https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
 - Here is my source file: [Source file folder](https://drive.google.com/drive/folders/1CyiUs1Q0ioEExS2fLfHI9HdtETPk4DMo?usp=sharing)
 
 ### Breast Cancer Study 
