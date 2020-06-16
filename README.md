@@ -28,13 +28,8 @@ most popular kernal for beginner.But I think this dataset would be easiler to un
 
 This study is about different type of tumor with different informations. We'll use different informations as a sub_features or factors to predict if this patient would have a breast canacer. For prediction we'll use **sklearn**. There are algorithms in sklearn but we're going to apply following algorithms 
 
-- SVM
-- Randomforest
-- DecisionTree
-- KNN(K nearest neighbors) 
-- Logistic Regression
-
-Here is my kernel link: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
+- Here is my kernel link: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
+- Here is my source file: [Source file folder](https://drive.google.com/drive/folders/1xNuupA_A1RCvD21aw7FrxeoC41EnDKHB?usp=sharing)
 
 ### Medical Appointment: No Show
 <hr>
