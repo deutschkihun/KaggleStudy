@@ -25,7 +25,7 @@ This study is about different type of tumor with different informations. We'll u
 
 Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
 
-### 3.1 Tweet Sentiment Extraction : First NLP Analysis
+### 3 Tweet Sentiment Extraction : First NLP Analysis
 <hr>
 
 [Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
@@ -33,17 +33,6 @@ Here is a link for my kernel from Kaggle: [Breast cancer study](https://www.kagg
 This kernel is about the tutorial how you can start NLP with real world dataset
 
 Here is a link for my kerel : [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
-
-
-### 3.2 Tweet Sentiment Extraction : First NLP Submission 
-<hr>
-
-[Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
-
-This kernel is about the tutorial how you can start NLP with real world dataset
-
-Here is a link for my kerel : [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
-
 
 ### 4. Medical Appointment No show
 <hr>
