@@ -1,4 +1,4 @@
-## Project overview 
+## Projects overview
 
 ### Tweet Sentiment Extraction : First NLP Analysis
 <hr>
