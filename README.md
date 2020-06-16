@@ -35,7 +35,7 @@ This study is about different type of tumor with different informations. We'll u
 
 Here is my kernel link: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
 
-### Medical Appointment No show
+### Medical Appointment: No Show
 <hr>
 
 [Original dataset](https://www.kaggle.com/joniarroba/noshowappointments)
