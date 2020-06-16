@@ -8,7 +8,7 @@
 This kernel is about the tutorial how you can start NLP with real world dataset
 
 Here is my kernel link: [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
-
+Here is my source file : [Source file folder](https://drive.google.com/drive/folders/1PX-yaWpDvr9Dto5FCR1xdJLHNZIW2hsv?usp=sharing)
 
 ### Machine learning for beginner : Biomechanical features of orthopedic patients
 <hr>
