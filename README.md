@@ -1,6 +1,16 @@
 ## Project overview 
 
-### 1.Machine learning for beginner : Biomechanical features of orthopedic patients
+### Tweet Sentiment Extraction : First NLP Analysis
+<hr>
+
+[Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
+
+This kernel is about the tutorial how you can start NLP with real world dataset
+
+Here is my kernel link: [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
+
+
+### Machine learning for beginner : Biomechanical features of orthopedic patients
 <hr>
 
 [Orignianl dataset](https://www.kaggle.com/uciml/biomechanical-features-of-orthopedic-patients)
@@ -10,7 +20,7 @@ most popular kernal for beginner.But I think this dataset would be easiler to un
 
 Here is my kernel link: [Machine learning for beginner](https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
 
-### 2.Breast Cancer Study 
+### Breast Cancer Study 
 <hr>
 
 [Original dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) 
@@ -25,16 +35,7 @@ This study is about different type of tumor with different informations. We'll u
 
 Here is my kernel link: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
 
-### 3 Tweet Sentiment Extraction : First NLP Analysis
-<hr>
-
-[Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
-
-This kernel is about the tutorial how you can start NLP with real world dataset
-
-Here is my kernel link: [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
-
-### 4. Medical Appointment No show
+### Medical Appointment No show
 <hr>
 
 [Original dataset](https://www.kaggle.com/joniarroba/noshowappointments)
