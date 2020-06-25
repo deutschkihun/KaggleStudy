@@ -8,7 +8,6 @@
 This kernel is about the tutorial how you can start NLP with real world dataset
 
 - Here is my kernel link: [First NLP Analysis](https://www.kaggle.com/kihunkim/first-nlp-analysis)
-- Here is my source file: [Source file folder](https://drive.google.com/drive/folders/1PX-yaWpDvr9Dto5FCR1xdJLHNZIW2hsv?usp=sharing)
 
 ### Prediction: orthopedic patients
 <hr>
@@ -19,7 +18,6 @@ This is project is aimded to person who want to start machine learning with Kagg
 most popular kernal for beginner.But I think this dataset would be easiler to understand and handle machine learnining and data analysis.
 
 - Here is my kernel link: [Prediction: orthopedic patients](https://www.kaggle.com/kihunkim/everything-about-machine-learning-for-beginner/)
-- Here is my source file: [Source file folder](https://drive.google.com/drive/folders/1CyiUs1Q0ioEExS2fLfHI9HdtETPk4DMo?usp=sharing)
 
 ### Breast Cancer Study 
 <hr>
@@ -29,7 +27,6 @@ most popular kernal for beginner.But I think this dataset would be easiler to un
 This study is about different type of tumor with different informations. We'll use different informations as a sub_features or factors to predict if this patient would have a breast canacer. For prediction we'll use **sklearn**. There are algorithms in sklearn but we're going to apply following algorithms 
 
 - Here is my kernel link: [Breast cancer study](https://www.kaggle.com/kihunkim/breast-cancer-study)
-- Here is my source file: [Source file folder](https://drive.google.com/drive/folders/1xNuupA_A1RCvD21aw7FrxeoC41EnDKHB?usp=sharing)
 
 ### Medical Appointment: No Show
 <hr>
@@ -39,6 +36,15 @@ This study is about different type of tumor with different informations. We'll u
 This project is answering about why so many people didn't show up their Mediacal Appointment. We'll find out what is a fundamental factor of No-show cases and the correlation between different type of factors 
 
 - Here is my kernel link: [No show EDA](https://www.kaggle.com/kihunkim/no-show-eda)
-- Here is my source file: [Source file folder](https://drive.google.com/drive/folders/1yxsEQJIwP5GC2B66rHZdBD-zyWh9EC1B?usp=sharing)
+
+
+### Start up investment visualization 
+<hr>
+
+[Original dataset](https://www.kaggle.com/arindam235/startup-investments-crunchbase/kernels)
+
+This project is about visualizing the startup investment dataset by using **plotly**,**seaborn** and **matplotlib**
+
+- Here is my kernel link : [StartUp Investment Visualization](https://www.kaggle.com/kihunkim/startup-investment-visualization)
 
 
